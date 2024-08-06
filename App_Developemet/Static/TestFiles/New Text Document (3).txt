@@ -1,0 +1,100 @@
+Spam Examples ::-
+
+	1. Example: Congratulations! You’ve won a $500 Amazon gift card. Claim it here [Link]. 
+
+2. Subject: Congratulations! You’ve Won a $1,000 Gift Card!
+
+Please verify your Bank of America account information to avoid a hold on your account. Click here to confirm: [Link]
+You’ve been overcharged for your 2021 taxes. Get your IRS tax refund here: [Link]
+
+5. Dear Winner,
+
+You have been randomly selected to receive a $1,000 gift card from our prestigious store! This is our way of thanking you for being a valued customer. To claim your prize, simply click the link below and fill out the required information:
+
+Claim Your Prize Now!
+
+Hurry, this offer is only valid for a limited time!
+
+Best regards,
+The Prize Team
+ 
+
+
+HAM Examples ::- 
+
+1. Subject: Request for QSL Card
+
+Hi [Recipient's Call Sign],
+I hope this message finds you well! My name is [Your Name/Call Sign], and I recently had the pleasure of making a contact with you on [Date] on [Frequency/Mode].
+I wanted to reach out to confirm our contact and request a QSL card. I’d love to add it to my collection! If you send me yours, I’ll be happy to send one back.
+Thanks for the great QSO, and I look forward to hearing from you soon!
+
+[Your Name]
+[Your Call Sign]
+[Your Location]
+[Your Email]
+
+
+2. Subject: QSL Card Request
+
+Hi [Recipient's Call Sign],
+
+I hope you’re doing well! I enjoyed our QSO on [Date] on [Frequency/Mode]. It was great to connect!
+
+I would love to exchange QSL cards. If you could send yours, I’ll make sure to send one back to you.
+
+Thanks again for the contact, and I hope to catch you on the air again soon!
+
+[Your Name]
+[Your Call Sign]
+[Your Location]
+[Your Email]
+
+3. Subject: Request for QSL Card
+
+Hi [Recipient's Call Sign],
+
+I hope this message finds you well! My name is [Your Name/Call Sign], and I recently had the pleasure of making a contact with you on [Date] on [Frequency/Mode].
+
+I wanted to reach out to confirm our contact and request a QSL card. I’d love to add it to my collection! If you send me yours, I’ll be happy to send one back.
+
+Thanks for the great QSO, and I look forward to hearing from you soon!
+
+[Your Name]
+[Your Call Sign]
+[Your Location]
+[Your Email]
+
+
+4. Subject: Scheduling a Sked
+
+Hello [Recipient's Call Sign],
+
+I hope this message finds you in good spirits! I really enjoyed our recent chat on [Date/Time]. I’d love to arrange a more extended QSO if you’re available.
+
+Would you be free to connect again on [Proposed Date and Time]? If that doesn’t work, just let me know what times work best for you!
+
+Looking forward to hearing from you!
+
+
+[Your Name]
+[Your Call Sign]
+[Your Location]
+[Your Email]
+
+
+
+5 . Subject: Equipment Setup Exchange
+
+Hi [Recipient's Call Sign],
+
+I hope you’re doing well! I wanted to reach out after our recent contact on [Date]. I enjoyed our conversation about equipment and would love to share some details about my setup.
+
+I’m using a [Your Transmitter/Receiver] and an [Antenna Type]. What’s your current setup like? I’d be interested to hear about any tips you might have!
+
+Thanks for the chat, and hope to catch you on the air again soon!
+
+[Your Name]
+[Your Call Sign]
+[Your Location]
+[Your Email]

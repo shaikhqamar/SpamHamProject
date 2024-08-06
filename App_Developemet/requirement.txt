@@ -1,0 +1,32 @@
+Here’s a list of requirements for your Streamlit NLP app based on the provided code:
+
+```plaintext
+streamlit==1.21.0
+Pillow==10.0.0
+pytesseract==0.3.10
+nltk==3.6.7
+scikit-learn==1.0.2
+pickle-mixin==1.0.2
+```
+
+Additional Steps
+
+1. Download NLTK Data: Since your app uses NLTK for stopwords and lemmatization, make sure to download the necessary datasets:
+   ```python
+   import nltk
+   nltk.download('stopwords')
+   nltk.download('wordnet')
+   ```
+
+2. Tesseract Installation: Ensure that Tesseract OCR is installed on your system and is accessible from the command line. You may also need to specify the Tesseract executable path in your code:
+   ```python
+   pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+   ```
+
+3. Model and Vectorizer Files: Make sure the `randomforest.pkl` and `CountVectorizer.pkl` files are in the specified paths for the app to run without errors.
+
+4. CSS File: If you decide to use external CSS files or styles, ensure they are correctly referenced in your app.
+
+With these requirements, you should be able to run your this app without any issues!
+
+If after these you are still facing issues then you can can contact me +919336297409 (WhatsApp Only)
